@@ -1,7 +1,14 @@
-#dot-product-input {
+#vector-operations-input {
   width: 100%;
   height: auto;
   padding: 5px;
   resize: none;
   font-size: 1.5em;
+}
+
+#vector-operations-sol {
+  width: 100%;
+  font-size: 1.5em;
+  padding: 5px;
+  border: 1px solid #000;
 }
